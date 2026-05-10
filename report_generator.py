@@ -52,4 +52,5 @@ def export_report_to_csv(df, filename="fact_check_report.csv"):
     """
 
     df.to_csv(filename, index=False)
-    r
+
+    return filename
