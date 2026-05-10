@@ -1,13 +1,61 @@
 Claim,Status,Evidence,Sources
-1. The global smartphone market shipped approximately 1.2 billion units in 2023.,Error,Google search failed.,No sources available
-6. OpenAI launched ChatGPT publicly in late 2022.,Error,Google search failed.,No sources available
-11. Netflix has over 5 billion subscribers worldwide.,Error,Google search failed.,No sources available
-2. NASA was founded in 1958.,Error,Google search failed.,No sources available
-9. Amazon’s annual revenue exceeded $500 billion in recent years.,Error,Google search failed.,No sources available
-17. The global AI market was valued in the hundreds of billions of dollars by the mid-2020s.,Error,Google search failed.,No sources available
-14. Microsoft acquired Apple in 2018.,Error,Google search failed.,No sources available
-3. Tesla became the first car company to sell 500 million electric vehicles by 2024.,Error,Google search failed.,No sources available
-7. Bitcoin was created in 2015.,Error,Google search failed.,No sources available
-20. Facebook was founded in 1995.,Error,Google search failed.,No sources available
-13. Japan hosted the Summer Olympics in Tokyo in 2021.,Error,Google search failed.,No sources available
-4. India surpassed China in population around 2023.,Error,Google search failed.,No sources available
+14. Microsoft acquired Apple in 2018.,Verified,Source evidence generally supports the claim.,"List of mergers and acquisitions by Microsoft - Wikipedia: https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Microsoft
+Microsoft briefly overtakes Apple as world’s most valuable company | Fox Business: https://www.foxbusiness.com/markets/microsoft-briefly-overtakes-apple-worlds-valuable-company
+Tech Stocks This Week: Apple's Big Event and Microsoft's Acquisition | The Motley Fool: https://www.fool.com/investing/2018/09/14/tech-stocks-this-week-apples-big-event-and-microso.aspx
+Microsoft finishes 2018 as the top public company: https://www.cnbc.com/2018/12/31/microsoft-finishes-2018-as-the-top-public-company.html
+Google says Microsoft offered to sell Bing to Apple in 2018: https://www.cnbc.com/2024/02/24/google-says-microsoft-offered-to-sell-bing-to-apple-in-2018.html"
+17. The global AI market was valued in the hundreds of billions of dollars by the mid-2020s.,Inaccurate,"Claim may be partially true, outdated, or insufficiently supported.","Global AI Market | 2019 – 2030 | Ken Research: https://www.kenresearch.com/global-ai-market
+Artificial Intelligence Market Size, Trends, Share & Growth Drivers ...: https://www.mordorintelligence.com/industry-reports/global-artificial-intelligence-market
+AI market projected to hit $4.8 trillion by 2033, emerging ... - UNCTAD: https://unctad.org/news/ai-market-projected-hit-48-trillion-2033-emerging-dominant-frontier-technology
+Artificial Intelligence Market Size Worth USD 3,680.47 Bn By 2034: https://finance.yahoo.com/news/artificial-intelligence-market-size-worth-154100049.html
+Artificial Intelligence - Worldwide | Market Forecast - Statista: https://www.statista.com/outlook/tmo/artificial-intelligence/worldwide?srsltid=AfmBOooXuDjOYd3PuCIBdAX9hC23101OF26PlSwcdDyKd1h9D2VO4rCV"
+4. India surpassed China in population around 2023.,Verified,Source evidence generally supports the claim.,"India to overtake China as world's most populous country in April ...: https://www.un.org/en/desa/india-overtake-china-world-most-populous-country-april-2023-united-nations-projects
+[PDF] India's Population overtakes China's in April 2023: https://iasp.ac.in/uploads/journal/001-1699014948.pdf
+Key facts about India's growing population as it surpasses China's ...: https://www.pewresearch.org/short-reads/2023/02/09/key-facts-as-india-surpasses-china-as-the-worlds-most-populous-country/
+India overtakes China to become world’s most populous country | India | The Guardian: https://www.theguardian.com/world/2023/apr/24/india-overtakes-china-to-become-worlds-most-populous-country
+How India’s population exploded to overtake China’s and what’s next | CNN: https://www.cnn.com/2023/04/28/asia/india-population-overtakes-china-graphics-intl-hnk-dst-dg"
+11. Netflix has over 5 billion subscribers worldwide.,Inaccurate,"Claim may be partially true, outdated, or insufficiently supported.","Netflix | Trackers | nScreenMedianScreenMedia: https://nscreenmedia.com/netflix-2/
+Netflix Tops 325 Million Subscribers, Plans to Boost Content Spending 10% to $20 Billion in 2026: https://variety.com/2026/tv/news/netflix-q4-2025-financial-earnings-subscribers-1236635615/
+Netflix Subscribers (2026) - Users, Revenue & Growth Stats: https://www.demandsage.com/netflix-subscribers/
+Netflix Users by Country 2026: https://worldpopulationreview.com/country-rankings/netflix-users-by-country
+50+ Netflix Statistics for 2025: Revenue, Usage & Growth: https://www.notta.ai/en/blog/netflix-statistics"
+1. The global smartphone market shipped approximately 1.2 billion units in 2023.,Verified,Source evidence generally supports the claim.,"Global Smartphone Shipments Expected To Rise After Weak 2023: https://www.investopedia.com/global-smartphone-shipments-expected-to-rise-after-weak-2023-8621727
+Apple Grabs the Top Spot in the Smartphone Market in 2023 along with Record High Market Share Despite the Overall Market Dropping 3.2%, According to IDC Tracker: https://www.businesswire.com/news/home/20240115096425/en/Apple-Grabs-the-Top-Spot-in-the-Smartphone-Market-in-2023-along-with-Record-High-Market-Share-Despite-the-Overall-Market-Dropping-3.2-According-to-IDC-Tracker
+Smartphone Market Share: https://www.idc.com/promo/smartphone-market-share/
+[PDF] recap of the global smartphone market - ABI Research: https://go.abiresearch.com/hubfs/Marketing/Whitepapers/Global%20Smartphone%20Market%20Recap/ABI_Research_Global_Smartphone_Market_Recap.pdf
+2023 Global Smartphone Shipments to Hit Lowest Level in Almost a Decade: https://counterpointresearch.com/en/insights/2023-global-smartphone-shipments-to-hit-lowest-level-in-almost-a-decade"
+2. NASA was founded in 1958.,Verified,Source evidence generally supports the claim.,"Congress Creates the National Aeronautics and Space Administration | History | Research Starters | EBSCO Research: https://www.ebsco.com/research-starters/history/congress-creates-national-aeronautics-and-space-administration
+NASA created | July 29, 1958 | HISTORY: https://www.history.com/this-day-in-history/july-29/nasa-created
+National Aeronautics and Space Administration (NASA) | Eisenhower Presidential Library: https://www.eisenhowerlibrary.gov/research/online-documents/early-history-and-development-national-aeronautics-and-space
+NASA - Wikipedia: https://en.wikipedia.org/wiki/NASA
+65 Years Ago: The National Aeronautics and Space Act of 1958 Creates NASA - NASA: https://www.nasa.gov/history/65-years-ago-the-national-aeronautics-and-space-act-of-1958-creates-nasa/"
+3. Tesla became the first car company to sell 500 million electric vehicles by 2024.,False,Source evidence strongly contradicts the claim.,"Largest EV Companies in 2025 | The Motley Fool: https://www.fool.com/research/largest-ev-companies/
+Tesla Growth Rate and Production Numbers: Statistics & Facts: https://www.investing.com/academy/statistics/tesla-facts/
+Electric Vehicle Sales Jump Higher in Q4, Pushing U.S. Sales to a Record 1.3 Million - Cox Automotive Inc.: https://www.coxautoinc.com/insights-hub/q4-2024-ev-sales/
+2024 (Full Year) Global: Tesla Worldwide Car Sales and Production by Model - Car Sales Statistics: https://www.best-selling-cars.com/brands/2024-full-year-global-tesla-worldwide-car-sales-and-production-by-model/
+The 10 Bestselling EVs of 2024: https://www.caranddriver.com/news/g63396028/bestselling-evs-2024/"
+7. Bitcoin was created in 2015.,Verified,Source evidence generally supports the claim.,"When Did Bitcoin Start? Genesis Block and Satoshi | Gemini: https://www.gemini.com/cryptopedia/bitcoin-satoshi-nakamoto-genesis
+Bitcoin price history 2009–2025 | Key milestones | Capital.com: https://capital.com/en-int/analysis/bitcoin-price-change-over-time
+The History of the Blockchain and Bitcoin | Freeman Law: https://freemanlaw.com/the-history-of-the-blockchain-and-bitcoin/
+Celebrating Bitcoin’s 16th Birthday: A Look at Achievements in the Crypto Space - CME Group: https://www.cmegroup.com/articles/2025/celebrating-bitcoins-16th-birthday-a-look-at-achievements-in-the-crypto-space.html
+When Was Bitcoin Invented? The Complete History & Timeline: https://www.ledger.com/academy/topics/crypto/when-was-bitcoin-invented"
+9. Amazon’s annual revenue exceeded $500 billion in recent years.,Verified,Source evidence generally supports the claim.,"Instagram: https://www.instagram.com/p/DVDpA3miLaV/
+Amazon Revenue 2012-2026 | AMZN | MacroTrends: https://www.macrotrends.net/stocks/charts/AMZN/amazon/revenue
+Amazon takes the No. 1 spot on the Fortune 500, ending Walmart’s 13-year run | Fortune: https://fortune.com/article/amazon-overtakes-walmart-fortune-500-doug-mcmilon-andy-jassy-retail-tech/
+Amazon.com (AMZN) Revenue 2005-2026: https://stockanalysis.com/stocks/amzn/revenue/
+Amazon Net Sales 1996-2025 - Marketplace Pulse: https://www.marketplacepulse.com/stats/amazon-net-sales"
+20. Facebook was founded in 1995.,Verified,Source evidence generally supports the claim.,"A brief history of Facebook as a media text: The development of an empty structure: https://firstmonday.org/ojs/index.php/fm/article/download/5423/4466
+Facebook - Wikipedia: https://en.wikipedia.org/wiki/Facebook
+History of Facebook - Wikipedia: https://en.wikipedia.org/wiki/History_of_Facebook
+Facebook Turns 20: Where Are Its Five Harvard Founders Now? | Observer: https://observer.com/2024/02/facebook-turns-20-founders-today/
+Facebook | Overview, History, Controversies, & Facts | Britannica Money: https://www.britannica.com/money/Facebook"
+13. Japan hosted the Summer Olympics in Tokyo in 2021.,Verified,Source evidence generally supports the claim.,"2021 Tokyo Olympics Games: All you need to know! | Japan Experience: https://www.japan-experience.com/plan-your-trip/thematic-guides/olympic-games-2020-tokyo
+Tokyo 2020 Olympic Games | Events, Medals, Controversy, COVID, Pandemic, & Results | Britannica: https://www.britannica.com/event/Tokyo-2020-Olympic-Games
+[PDF] Tokyo Olympics - The Japan Society: https://www.japansociety.org.uk/usercontent/ca99f87dc1184fea92ee1d33bd5d005d/OlympicPackFinal.pdf
+Olympedia – 2020 Summer Olympics Overview: https://www.olympedia.org/editions/61
+Japan at the 2020 Summer Olympics - Wikipedia: https://en.wikipedia.org/wiki/Japan_at_the_2020_Summer_Olympics"
+6. OpenAI launched ChatGPT publicly in late 2022.,Verified,Source evidence generally supports the claim.,"ChatGPT - Wikipedia: https://en.wikipedia.org/wiki/ChatGPT
+ChatGPT is released to the public | HISTORY: https://www.history.com/this-day-in-history/november-30/chatgpt-released-openai
+Timeline Of ChatGPT Updates & Key Events: https://www.searchenginejournal.com/history-of-chatgpt-timeline/488370/
+Introducing ChatGPT - OpenAI: https://openai.com/index/chatgpt/
+ChatGPT — Release Notes | OpenAI Help Center: https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
